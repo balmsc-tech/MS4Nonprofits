@@ -12,6 +12,7 @@ The solutions contained in this repository are accelerators designed to make it 
   - [Trademark](#trademark)
 
 ---
+![Deploy to Azure](https://aka.ms/deploytoazurebutton)
 
 ## Nonprofit Solutions
 
